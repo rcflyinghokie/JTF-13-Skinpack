@@ -203,5 +203,5 @@ livery = {
 	{"F18C_BORT_NUMBER_MTW_aus_L_01", DECAL ,"empty",true};	
 }
 name = "VFA-151 Vigilantes 302"
-
+countries = {"USA",}
 --By SkateZilla Graphics Studios 2018 (05.25.2018)

@@ -202,6 +202,6 @@ livery = {
 	{"F18C_BORT_NUMBER_MTW_aus_L_01", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
 	{"F18C_BORT_NUMBER_MTW_aus_L_01", DECAL ,"empty",true};	
 }
-name = "VFA-151 301"
+name = "VFA-151 Vigilantes 301"
 
 --By SkateZilla Graphics Studios 2018 (05.25.2018)

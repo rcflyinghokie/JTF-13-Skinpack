@@ -7,6 +7,11 @@ livery = {
 	{"f18c2", 0 ,"F18C_1_DIFF_2_Spain_151_18",false};
 	{"f18c2", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 
+
+	{"FPU_8A", 0 ,"FPU_8A_Spain_151_26",false};
+	{"FPU_8A", 1, "fpu_8a_nm_151_26", false};
+	{"FPU_8A", ROUGHNESS_METALLIC ,"FPU_8A_Diff_RoughMet",true};
+
 	
 	
 	
@@ -237,7 +242,8 @@ livery = {
 
 
 	{"pilot_F18", 0 ,"pilot_F18",true};
-	{"pilot_F18_helmet", 0 ,"pilot_F18_helmet",true};
+	{"pilot_F18_helmet", 0 ,"pilot_F18_helmet",false};
+	{"pilot_F18_helmet", ROUGHNESS_METALLIC ,"pilot_F18_helmet_roughmet",false};
 	{"pilot_F18_patch", 0 ,"pilot_F18_patch_151_18",false};
 	{"pilot_F18_patch", 1 ,"pilot_F18_patch_15_nm",false};
 	{"pilot_F18_patch", ROUGHNESS_METALLIC ,"pilot_F18_patch_15_RoughMet",false};		
