@@ -37,8 +37,9 @@ livery = {
 	{"pilot_F16_patch", NORMAL_MAP, "empty", false};
 	{"pilot_F16_patch", ROUGHNESS_METALLIC, "empty", false};
 	
-	{"pilot_F16", 0, "../JTF-13 93rd FS - Makos Textures/Pilot_F16_482th", false};
-	{"pilot_F16", ROUGHNESS_METALLIC, "../JTF-13 93rd FS - Makos Textures/pilot_f16_roughmet", true};
+	{"pilot_F16", 0, "../482nd FW IP Textures/Pilot_F16_482nd", false};
+	{"pilot_F16", NORMAL_MAP, "pilot_f16_nm", true};
+	{"pilot_F16", ROUGHNESS_METALLIC, "../482nd FW IP Textures/pilot_f16_roughmet", true};
 	
 	{"F16_bl50_Wing_Pylon_1", 0, "../482nd FW IP Textures/F16_Wing_Pylon1", false};
 	{"F16_bl50_Wing_Pylon_2", 0, "../482nd FW IP Textures/F16_Wing_Pylon2", false};

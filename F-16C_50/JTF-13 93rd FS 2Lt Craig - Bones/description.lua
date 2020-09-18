@@ -118,7 +118,7 @@ livery = {
 }
 
 
-name = "JTF-13 93rd FS - 2Lt Craig - Bones"
+name = "JTF-13 93rd FS 2Lt Craig - Bones"
 --Skin By xCorvinuSx Oct/2019
 --Edited By Bryan "Flash" June/2020
 
