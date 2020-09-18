@@ -18,10 +18,7 @@ livery = {
 	{"F16_bl50_Kil", 0, "../482nd FW IP Textures/F16_482th_Kil", false};
 	{"F16_bl50_Kil", ROUGHNESS_METALLIC, "../482nd FW IP Textures/F16_bl50_Kil_RoughMet", false};
 	
-	{"Tank_370", DIFFUSE, "../482nd FW IP Textures/fuel_tank_370gal", false};
-	{"Tank_370", ROUGHNESS_METALLIC, "../482nd FW IP Textures/fuel_tank_370gal_diff_RoughMet", false};
-	
-	{"PTB_300Gal", 0, "../482nd FW IP Textures/fuel_tank_300gal", false};
+--	{"Tank_370", 0, "fuel_tank_370gal", false};
 
 	{"F16_bl50_GLASS", 0, "../482nd FW IP Textures/F16_Glass", false};
 	{"F16_bl50_GLASS", NORMAL_MAP, "F16_bl50_Glass_Normal", false};

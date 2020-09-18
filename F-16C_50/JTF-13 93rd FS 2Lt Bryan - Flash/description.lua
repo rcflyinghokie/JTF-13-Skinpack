@@ -18,12 +18,6 @@ livery = {
 	{"F16_bl50_Kil", 0, "../JTF-13 93rd FS - Makos Textures/F16_482th_Kil", false};
 	{"F16_bl50_Kil", ROUGHNESS_METALLIC, "../JTF-13 93rd FS - Makos Textures/F16_bl50_Kil_RoughMet", false};
 	
-	{"Tank_370", DIFFUSE, "../JTF-13 93rd FS - Makos Textures/fuel_tank_370gal", false};
-	{"Tank_370", ROUGHNESS_METALLIC, "../JTF-13 93rd FS - Makos Textures/fuel_tank_370gal_diff_RoughMet", false};
-	
---	{"PTB_300Gal", 1, "../JTF-13 93rd FS - Makos Textures/fuel_tank_300gal", false};
-	
-	
 	{"F16_bl50_GLASS", 0, "../JTF-13 93rd FS - Makos Textures/F16_Glass", false};
 	{"F16_bl50_GLASS", NORMAL_MAP, "F16_bl50_Glass_Normal", false};
 	{"F16_bl50_GLASS", ROUGHNESS_METALLIC, "../JTF-13 93rd FS - Makos Textures/F16_bl50_Glass_RoughMet", false};
