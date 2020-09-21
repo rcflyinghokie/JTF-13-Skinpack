@@ -237,11 +237,12 @@ livery = {
 
 
 	{"pilot_F18", 0 ,"pilot_F18",true};
-	{"pilot_F18_helmet", 0 ,"pilot_F18_helmet",true};
+	{"pilot_F18_helmet", 0 ,"pilot_F18_helmet",false};
+	{"pilot_F18_helmet", ROUGHNESS_METALLIC ,"pilot_F18_helmet_roughmet",false};
 	{"pilot_F18_patch", 0 ,"pilot_F18_patch_151_18",false};
 	{"pilot_F18_patch", 1 ,"pilot_F18_patch_15_nm",false};
 	{"pilot_F18_patch", ROUGHNESS_METALLIC ,"pilot_F18_patch_15_RoughMet",false};		
 
 	
 }
-name = "Ala15 - 15-12_"
+name = "Ala15 - 15-12_Brooker"
