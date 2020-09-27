@@ -18,10 +18,10 @@ livery = {
 	{"F16_bl50_Kil", 0, "../JTF-13 93rd FS - Makos Textures/F16_482th_Kil", false};
 	{"F16_bl50_Kil", ROUGHNESS_METALLIC, "../JTF-13 93rd FS - Makos Textures/F16_bl50_Kil_RoughMet", false};
 	
-	{"Tank_370", DIFFUSE, "../JTF-13 93rd FS - Makos Textures/fuel_tank_370gal", false};
-	{"Tank_370", ROUGHNESS_METALLIC, "../JTF-13 93rd FS - Makos Textures/fuel_tank_370gal_diff_RoughMet", false};
+--	{"Tank_370", DIFFUSE, "../JTF-13 93rd FS - Makos Textures/fuel_tank_370gal", false};
+--	{"Tank_370", ROUGHNESS_METALLIC, "../JTF-13 93rd FS - Makos Textures/fuel_tank_370gal_diff_RoughMet", false};
 	
-	{"PTB_300Gal", 1, "../JTF-13 93rd FS - Makos Textures/fuel_tank_300gal", false};
+--	{"PTB_300Gal", 1, "../JTF-13 93rd FS - Makos Textures/fuel_tank_300gal", false};
 	
 	
 	{"F16_bl50_GLASS", 0, "../JTF-13 93rd FS - Makos Textures/F16_Glass", false};
@@ -32,11 +32,11 @@ livery = {
 	{"LAU_129", NORMAL_MAP, "lau_129_nm", true};
 	{"LAU_129", ROUGHNESS_METALLIC, "lau_129_diff_roughmet", true};
 	
-	{"AAQ_28", DIFFUSE, "aaq_28_diff", false};
-	{"AAQ_28", ROUGHNESS_METALLIC, "aaq_28_diff_roughmet", false};
-	{"AAQ_28", NORMAL_MAP, "aaq_28_nm", true};	
-	{"AAQ_28_Glass", 0, "aaq_28_glass", false};
-	{"AAQ_28_Glass", ROUGHNESS_METALLIC, "aaq_28_glass_roughmet", false};
+--	{"AAQ_28", DIFFUSE, "aaq_28_diff", false};
+--	{"AAQ_28", ROUGHNESS_METALLIC, "aaq_28_diff_roughmet", false};
+--	{"AAQ_28", NORMAL_MAP, "aaq_28_nm", true};	
+--	{"AAQ_28_Glass", 0, "aaq_28_glass", false};
+--	{"AAQ_28_Glass", ROUGHNESS_METALLIC, "aaq_28_glass_roughmet", false};
 	
 	{"FLOOR-01", 0, "f16c-cpt-floor-01", false};
 	
