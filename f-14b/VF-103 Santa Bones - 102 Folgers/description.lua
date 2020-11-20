@@ -41,6 +41,7 @@ livery = {
 {"HB_F14_EXT_LANTIRN_POD", ROUGHNESS_METALLIC ,"../VF-103 AA103 2000 Santa Bones/HB_F14_EXT_LANTIRN_POD_RoughMet",false};
 {"HB_F14_EXT_LANTIRN_POD", 1 ,"../VF-103 AA103 2000 Santa Bones/HB_F14_EXT_LANTIRN_POD_Nrm",false};
 {"HB_F14_FRONT_GEAR", 0 ,"../VF-103 AA103 2000 Santa Bones/HB_F14_FRONT_GEAR.dds",false};
+{"HB_F14_AIM-54", 0 ,"../VF-103 AA103 2000 Santa Bones/HB_F14_AIM-54.dds",false};
 
 {"HB_F14_EXT_Ext_F110", 0 ,"../VF-103 AA103 2000 Santa Bones/HB_F14_Ext_F110",false};
 
