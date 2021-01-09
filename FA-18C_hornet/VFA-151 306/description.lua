@@ -7,13 +7,13 @@ livery = {
 	{"f18c2", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	
 	--Pilot Maps
-	{"pilot_F18_patch", 0 ,"Pilot_F18_Patch_Vigilantes",false};
-	{"pilot_F18_patch", 1 ,"Pilot_F18_Patch_NORM_Vigilantes",false};
-	{"pilot_F18_patch", ROUGHNESS_METALLIC ,"Pilot_F18_Patch_Vigilantes_RoughMet",false};
-	{"pilot_F18_helmet", 0, "PILOT_F18_HELMET_VFA_DEFAULT", false};
+	{"pilot_F18_patch", 0 ,"../VFA-151 Line/Pilot_F18_Patch_Vigilantes",false};
+	{"pilot_F18_patch", 1 ,"../VFA-151 Line/Pilot_F18_Patch_NORM_Vigilantes",false};
+	{"pilot_F18_patch", ROUGHNESS_METALLIC ,"../VFA-151 Line/Pilot_F18_Patch_Vigilantes_RoughMet",false};
+	{"pilot_F18_helmet", 0, "../VFA-151 Line/PILOT_F18_HELMET_VFA_DEFAULT", false};
 	
 	--Fuel Tanks
-	{"FPU_8A", 0 ,"FPU_8A",false};
+	{"FPU_8A", 0 ,"../VFA-151 Line/FPU_8A",false};
 	{"FPU_8A", ROUGHNESS_METALLIC ,"FPU_8A_Diff_RoughMet",true};
 	
 	--Stay / Covers
