@@ -238,10 +238,10 @@ livery = {
 
 	{"pilot_F18", 0 ,"pilot_F18",true};
 	{"pilot_F18_helmet", 0 ,"pilot_F18_helmet",false};
-	{"pilot_F18_helmet", ROUGHNESS_METALLIC ,"pilot_F18_helmet_roughmet",false};
-	{"pilot_F18_patch", 0 ,"Pilot_F18_Patch_Spain_151_26",false};
-	{"pilot_F18_patch", 1 ,"Pilot_F18_Patch_NORM_Spain_151_26",false};
-	{"pilot_F18_patch", 13 ,"Pilot_F18_Patch_Spain_151_26_RoughMet",false};
+	{"pilot_F18_helmet", ROUGHNESS_METALLIC ,"../Ala15 - Base/pilot_F18_helmet_roughmet",false};
+	{"pilot_F18_patch", 0 ,"../Ala15 - Base/Pilot_F18_Patch_Spain_151_26",false};
+	{"pilot_F18_patch", 1 ,"../Ala15 - Base/Pilot_F18_Patch_NORM_Spain_151_26",false};
+	{"pilot_F18_patch", 13 ,"../Ala15 - Base/Pilot_F18_Patch_Spain_151_26_RoughMet",false};
 	
 	
 	{"FPU_8A", 0 ,"FPU_8A_14_tiger",false};

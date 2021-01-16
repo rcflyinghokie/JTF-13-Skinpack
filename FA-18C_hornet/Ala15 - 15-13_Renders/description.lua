@@ -7,16 +7,16 @@ livery = {
 	{"f18c2", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	
 	--Pilot Maps
-	{"pilot_F18_patch", 0 ,"Pilot_F18_Patch_Spain_151_26",false};
-	{"pilot_F18_patch", 1 ,"Pilot_F18_Patch_NORM_Spain_151_26",false};
-	{"pilot_F18_patch", 13 ,"Pilot_F18_Patch_Spain_151_26_RoughMet",false};
+	{"pilot_F18_patch", 0 ,"../Ala15 - Base/Pilot_F18_Patch_Spain_151_26",false};
+	{"pilot_F18_patch", 1 ,"../Ala15 - Base/Pilot_F18_Patch_NORM_Spain_151_26",false};
+	{"pilot_F18_patch", 13 ,"../Ala15 - Base/Pilot_F18_Patch_Spain_151_26_RoughMet",false};
 	{"pilot_F18_helmet", 0 ,"pilot_F18_helmet",false};
-	{"pilot_F18_helmet", ROUGHNESS_METALLIC ,"pilot_F18_helmet_roughmet",false};
+	{"pilot_F18_helmet", ROUGHNESS_METALLIC ,"../Ala15 - Base/pilot_F18_helmet_roughmet",false};
 	--{"pilot_F18", 0 ,"pilot_F18_Spain_151_26",false};
 	
 	--Fuel Tanks
-	{"FPU_8A", 0 ,"FPU_8A_Spain_151_26",false};
-	{"FPU_8A", 1, "fpu_8a_nm_151_26", false};
+	{"FPU_8A", 0 ,"../Ala15 - Base/FPU_8A_Spain_151_26",false};
+	{"FPU_8A", 1, "../Ala15 - Base/fpu_8a_nm_151_26", false};
 	{"FPU_8A", ROUGHNESS_METALLIC ,"FPU_8A_Diff_RoughMet",true};	
 	
 	--Nose Aircraft Numbers (USN)
