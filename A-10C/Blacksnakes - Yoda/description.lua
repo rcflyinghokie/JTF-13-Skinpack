@@ -17,4 +17,5 @@ livery = {
 	{"A-10_Number_Wheel", 0 ,"empty",true};
 
 }
+name = "Blacksnakes - Yoda"
 countries = {"USA"}
