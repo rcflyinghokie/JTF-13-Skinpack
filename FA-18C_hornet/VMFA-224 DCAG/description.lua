@@ -198,5 +198,5 @@ livery = {
 	{"F18C_BORT_NUMBER_MTW_aus_L_01", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
 	{"F18C_BORT_NUMBER_MTW_aus_L_01", DECAL ,"empty",true};		
 }
-name = "VMFA-224 CAG 2"
+name = "VMFA-224 DCAG"
 countries = {"USA",}
