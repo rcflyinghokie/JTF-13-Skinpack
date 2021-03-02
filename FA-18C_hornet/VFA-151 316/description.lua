@@ -6,6 +6,9 @@ livery = {
 	{"f18c2", 0 ,"F18C_2_DIFF_VFA151_Vigilantes_Line_Alternate",false};
 	{"f18c2", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	
+	--Canopy Glass
+	{"f18c_glass", 0, "F18C_GLASS", false};
+
 	--Pilot Maps
 	{"pilot_F18_patch", 0 ,"../VFA-151 Line/Pilot_F18_Patch_Vigilantes",false};
 	{"pilot_F18_patch", 1 ,"../VFA-151 Line/Pilot_F18_Patch_NORM_Vigilantes",false};
