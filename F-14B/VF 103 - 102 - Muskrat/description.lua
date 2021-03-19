@@ -21,6 +21,6 @@ livery = {
 {"HB_F14_EXT_DROPTANKS", 0 ,"../VF 103 - JTF-13/HB_F14_EXT_DROPTANK",false};
 
 }
-name = "VF-103 - 103 - Muskrat"
+name = "VF-103 - 102 - Muskrat"
 
 --countries = {"USA", "RUS", "FRA", "UKR", "SPN", "NETH", "TUR", "BEL", "GER", "NOR", "CAN", "DEN", "UK", "GRG", "ISR", "ABH", "RSO"}
