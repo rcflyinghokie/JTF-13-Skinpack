@@ -18,7 +18,7 @@ livery = {
 {"HB_F14_EXT_RIO_HELMET", 0 ,"../VF 103 - JTF-13/Helmets/Custom/JTF_F14_HELMET_SHADY",false};
 {"HB_F14_EXT_RIO_HELMET", 1 ,"../VF 103 - JTF-13/Helmets/Line/JTF_F14_HELMET_NORMAL_MAP",false};
 {"HB_F14_EXT_RIO_HELMET", ROUGHNESS_METALLIC ,"../VF 103 - JTF-13/Helmets/Line/JTF_F14_HELMET_ROUGHMET",false};
-{"HB_F14_EXT_DROPTANKS", 0 ,"HB_F14_EXT_DROPTANK",false};
+{"HB_F14_EXT_DROPTANKS", 0 ,"../VF 103 - Folgers/HB_F14_EXT_DROPTANK",false};
 
 }
 name = "VF-103 - 100 - Whiskeys"
