@@ -43,3 +43,28 @@ _That being said I can't see how it would break anything._
 3. During install you can just select the default options
 4. In your `Liveries` folder there is a file called `gitupdate.bat`, make a shortcut to this file to the Desktop or any other convenient location.
 5. Launch the shortcut for `gitupdate.bat`
+
+
+For those Curious about how the update script works here are the contents of the file.
+```bat
+cd "C:\Users\%USERNAME%\Saved Games\DCS.openbeta\liveries"
+echo Running JTF-13 Livery Update.
+git pull
+echo Livery Update Complete.
+timeout /t 5
+```
+Breaking the script down line by line since I wouldn't run things on my own computer if I didn't know what they did so I don't expect you to.  
+
+Point the script in the Liveries folder using `%USERNAME%` to determine the current acccount name  
+`cd "C:\Users\%USERNAME%\Saved Games\DCS.openbeta\liveries"`  
+Print text into the script window  
+`echo Running JTF-13 Livery Update.`  
+Run the `git pull` command which pulls the changes from the server  
+`git pull`  
+Print text into the script window  
+`echo Livery Update Complete.`  
+Wait 5 seconds so you have time to read all the output.  
+`timeout /t 5`  
+
+
+If there are any questions or issues with any of these instructions please contact `"Jesse | "null" - 102"` on Discord at `null#8993`
