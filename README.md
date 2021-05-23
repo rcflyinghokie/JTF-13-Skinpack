@@ -29,7 +29,17 @@ This guide will show you how to update your liveries folder directly using Git. 
   
   
   
-## Updating Skinpack with Git
+## Updating Skinpack with GitKraken
 1. Open GitKraken
 2. Click `Pull` on the top bar.
 ![](README/gitpull.png)
+
+---
+## Updating Skinpack with Sketchy Bootleg Script null Wrote
+_I wrote this script in 10 seconds and didn't test it very much so you use it at your own risk_  
+_That being said I can't see how it would break anything._
+1. Download Command Line Git https://git-scm.com/download/win
+2. Install Command Line Git by launching downloaded executable.
+3. During install you can just select the default options
+4. In your `Liveries` folder there is a file called `gitupdate.bat`, make a shortcut to this file to the Desktop or any other convenient location.
+5. Launch the shortcut for `gitupdate.bat`
