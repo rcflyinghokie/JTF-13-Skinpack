@@ -1,12 +1,15 @@
 livery = {
 
 -- mi-24p_tex01 - temporary	
-	{"mi-24p_tex01_clear", 0, "mi-24p_tex01",	true};
+	{"BD3-57", DIFFUSE , "bd3-57_diff", false};
+
+-- mi-24p_tex01 - temporary	
+	{"mi-24p_tex01_clear", 0, "mi-24p_tex01",	false};
 	{"mi-24p_tex01_clear", 1, "mi-24p_tex01_NRM",	true};
 	{"mi-24p_tex01_clear", ROUGHNESS_METALLIC, "mi-24p_tex01_RoughMet", true};	 
 	
 -- mi-24p_tex03
-	{"mi-24p_tex03", 0,	"mi-24p_tex03", false};
+	{"mi-24p_tex03", 0,	"mi-24p_tex03", true};
 	{"mi-24p_tex03", 1,	"mi-24p_tex03_NRM",	true};
 	{"mi-24p_tex03", ROUGHNESS_METALLIC, "mi-24p_tex03_RoughMet", true};
 	
