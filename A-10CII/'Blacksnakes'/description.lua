@@ -10,7 +10,7 @@ livery = {
 	{"A-10C_PAINT_1-e", 0 ,"../../A-10C/'Blacksnakes'/A10CII_1e",false};
 	{"A-10C_PAINT_1-e", ROUGHNESS_METALLIC ,"../../A-10C/'Blacksnakes'/A10CII_1e_RoughMet",false};
 	{"A-10C_PAINT_1-f", 0 ,"../../A-10C/'Blacksnakes'/A10CII_1f",false};
-	{"A-10C_PAINT_1-f", ROUGHNESS_METALLIC ,"../../'Blacksnakes'/A-10C/A10CII_1f_RoughMet",false};
+	{"A-10C_PAINT_1-f", ROUGHNESS_METALLIC ,"../../A-10C/'Blacksnakes'/A10CII_1f_RoughMet",false};
 	{"A-10C_PAINT_1-g", 0 ,"../../A-10C/'Blacksnakes'/A10CII_1g",false};
 	{"A-10C_PAINT_1-g", ROUGHNESS_METALLIC ,"../../A-10C/'Blacksnakes'/A10CII_1g_RoughMet",false};
 	{"A-10C_PAINT_1-h", 0 ,"../../A-10C/'Blacksnakes'/A10CII_1h",false};
