@@ -202,6 +202,6 @@ livery = {
 	{"F18C_BORT_NUMBER_MTW_aus_L_01", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
 	{"F18C_BORT_NUMBER_MTW_aus_L_01", DECAL ,"empty",true};	
 }
-name = "VFA-143 Pukin' Dogs - CAG JTF"
+name = "VFA-143 Pukin' Dogs - CAG"
 countries = {"USA",}
 --By SkateZilla Graphics Studios 2018 (07.11.2018)
