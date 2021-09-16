@@ -21,6 +21,6 @@ livery = {
 {"HB_F14_EXT_DROPTANKS", 0 ,"../../f-14b/VF 103 - JTF-13/HB_F14_EXT_DROPTANK",false};
 
 }
-name = "VF-103 - 113 - Nikki"
+name = "VF-103 - 112 - Delta"
 
 --countries = {"USA", "RUS", "FRA", "UKR", "SPN", "NETH", "TUR", "BEL", "GER", "NOR", "CAN", "DEN", "UK", "GRG", "ISR", "ABH", "RSO"}
