@@ -203,5 +203,5 @@ livery = {
 	{"F18C_BORT_NUMBER_MTW_aus_L_01", DECAL ,"empty",true};	
 }
 name = "VFA-143 Pukin' Dogs - CO"
-countries = {"USA",}
+countries = {"USA", "RUS", "FRA", "UKR", "SPN", "NETH", "TUR", "BEL", "GER", "NOR", "CAN", "DEN", "UK", "GRG", "ISR", "ABH", "RSO"}
 --By SkateZilla Graphics Studios 2018 (07.10.2018)
